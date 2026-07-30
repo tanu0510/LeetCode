@@ -16,3 +16,15 @@
 - Binary Search
 
 🔗 LeetCode Profile: https://leetcode.com/u/bhadauriatanu3/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tanu0510/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tanu0510/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
