@@ -1,30 +1,63 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-🚀 Solving LeetCode problems to improve my DSA and problem-solving skills.
+Welcome to my LeetCode repository! 👋
 
-## Language
-- Java
+This repository contains my solutions to LeetCode problems solved using **Java**. I am consistently practicing Data Structures and Algorithms to improve my problem-solving skills and prepare for Software Development Engineer (SDE) roles.
 
-## Topics Covered
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & ML) Student
+- 💻 Programming Language: Java
+- 📚 Focus Areas: DSA, Problem Solving, Algorithms
+- 🎯 Goal: SDE Placement
+
+---
+
+## 📈 Progress
+
+- ✅ 100+ Problems Solved
+- 🟢 Easy
+- 🟡 Medium
+- 🔴 Hard
+
+---
+
+## 📂 Repository Structure
+
+```
+LeetCode/
+├── 0001-Two-Sum/
+├── 0020-Valid-Parentheses/
+├── 0121-Best-Time-to-Buy-and-Sell-Stock/
+├── 0206-Reverse-Linked-List/
+└── ...
+```
+
+---
+
+## 📚 Topics Covered
+
 - Arrays
 - Strings
 - Linked Lists
+- Stack
+- Queue
 - Trees
-- Graphs
-- Dynamic Programming
-- Greedy
 - Binary Search
+- Recursion
+- HashMap
+- Dynamic Programming
+- Graphs
+- Greedy
+- Backtracking
+- Sliding Window
+- Two Pointers
 
-🔗 LeetCode Profile: https://leetcode.com/u/bhadauriatanu3/
+---
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tanu0510/LeetCode/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/tanu0510/LeetCode/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+## 🔗 Connect With Me
+
+- **LeetCode:** https://leetcode.com/u/bhadauriatanu3/
+- **GitHub:** https://github.com/tanu0510
+
+⭐ If you find this repository useful, don't forget to star it!
