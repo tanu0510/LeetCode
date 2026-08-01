@@ -69,6 +69,7 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ LeetCode/
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
