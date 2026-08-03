@@ -106,6 +106,7 @@ LeetCode/
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Tree
 |  |
@@ -128,9 +129,18 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
