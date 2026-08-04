@@ -107,6 +107,7 @@ LeetCode/
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Tree
@@ -149,4 +150,8 @@ LeetCode/
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
