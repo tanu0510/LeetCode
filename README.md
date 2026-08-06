@@ -71,6 +71,7 @@ LeetCode/
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/tanu0510/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0518-coin-change-ii](https://github.com/tanu0510/LeetCode/tree/master/0518-coin-change-ii) |
 | [0812-largest-triangle-area](https://github.com/tanu0510/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -82,6 +83,7 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
