@@ -124,10 +124,12 @@ LeetCode/
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -139,6 +141,7 @@ LeetCode/
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |
@@ -212,4 +215,8 @@ LeetCode/
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
