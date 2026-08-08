@@ -125,6 +125,7 @@ LeetCode/
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -136,12 +137,14 @@ LeetCode/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanu0510/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |
