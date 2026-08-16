@@ -99,6 +99,7 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/tanu0510/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanu0510/LeetCode/tree/master/0097-interleaving-string) |
+| [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/tanu0510/LeetCode/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -264,10 +265,12 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanu0510/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -289,4 +292,8 @@ LeetCode/
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
