@@ -178,6 +178,7 @@ LeetCode/
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tanu0510/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanu0510/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
