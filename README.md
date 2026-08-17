@@ -83,6 +83,7 @@ LeetCode/
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanu0510/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -102,6 +103,7 @@ LeetCode/
 | [0097-interleaving-string](https://github.com/tanu0510/LeetCode/tree/master/0097-interleaving-string) |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/tanu0510/LeetCode/tree/master/0518-coin-change-ii) |
+| [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ LeetCode/
 | [0812-largest-triangle-area](https://github.com/tanu0510/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
@@ -291,6 +294,7 @@ LeetCode/
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
