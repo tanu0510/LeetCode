@@ -85,6 +85,7 @@ LeetCode/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
+| [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -132,6 +133,7 @@ LeetCode/
 | [0303-range-sum-query-immutable](https://github.com/tanu0510/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/tanu0510/LeetCode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
