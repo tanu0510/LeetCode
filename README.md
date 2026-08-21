@@ -91,6 +91,7 @@ LeetCode/
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanu0510/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tanu0510/LeetCode/tree/master/3731-find-missing-elements) |
@@ -149,6 +150,7 @@ LeetCode/
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanu0510/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -169,6 +171,7 @@ LeetCode/
 | [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ LeetCode/
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanu0510/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -347,4 +351,12 @@ LeetCode/
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
