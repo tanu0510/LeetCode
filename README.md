@@ -72,6 +72,7 @@ LeetCode/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanu0510/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/tanu0510/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/tanu0510/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -206,6 +207,7 @@ LeetCode/
 | ------- |
 | [0147-insertion-sort-list](https://github.com/tanu0510/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -223,6 +225,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -328,6 +331,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -376,4 +380,8 @@ LeetCode/
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
