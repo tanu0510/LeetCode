@@ -87,6 +87,7 @@ LeetCode/
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ LeetCode/
 | [0518-coin-change-ii](https://github.com/tanu0510/LeetCode/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ LeetCode/
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/tanu0510/LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +152,7 @@ LeetCode/
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -315,6 +319,7 @@ LeetCode/
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -325,6 +330,7 @@ LeetCode/
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -334,6 +340,7 @@ LeetCode/
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
