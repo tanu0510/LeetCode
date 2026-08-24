@@ -233,6 +233,7 @@ LeetCode/
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanu0510/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 ## Queue
 |  |
@@ -299,6 +300,7 @@ LeetCode/
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanu0510/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/tanu0510/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Bit Manipulation
