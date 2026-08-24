@@ -110,6 +110,7 @@ LeetCode/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tanu0510/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanu0510/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanu0510/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ LeetCode/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanu0510/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/tanu0510/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -353,6 +355,7 @@ LeetCode/
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bucket Sort
