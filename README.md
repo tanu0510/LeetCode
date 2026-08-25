@@ -83,6 +83,7 @@ LeetCode/
 | [0724-find-pivot-index](https://github.com/tanu0510/LeetCode/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/tanu0510/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -329,6 +330,7 @@ LeetCode/
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
