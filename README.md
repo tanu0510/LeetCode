@@ -104,6 +104,7 @@ LeetCode/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/tanu0510/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -313,6 +314,7 @@ LeetCode/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanu0510/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/tanu0510/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Bit Manipulation
