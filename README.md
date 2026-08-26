@@ -210,6 +210,7 @@ LeetCode/
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanu0510/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +260,7 @@ LeetCode/
 | [0239-sliding-window-maximum](https://github.com/tanu0510/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
