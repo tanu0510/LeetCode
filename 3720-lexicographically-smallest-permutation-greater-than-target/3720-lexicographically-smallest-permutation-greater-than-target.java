@@ -1,51 +1,48 @@
 class Solution {
     public String lexGreaterPermutation(String s, String target) {
-        int[] cnt = new int[26];
-
+        int[] count = new int[26];
         for (char ch : s.toCharArray()) {
-            cnt[ch - 'a']++;
+            count[ch - 'a']++;
         }
 
-        for (char ch : target.toCharArray()) {
-            cnt[ch - 'a']--;
+        int n = s.length();
+        int matched = 0;
+
+        while (matched < n && count[target.charAt(matched) - 'a'] > 0) {
+            count[target.charAt(matched) - 'a']--;
+            matched++;
         }
 
-        for (int i = target.length() - 1; i >= 0; i--) {
-            int cur = target.charAt(i) - 'a';
-            cnt[cur]++;
+        int start = matched < n ? matched : n - 1;
 
-            boolean ok = true;
-            for (int x : cnt) {
-                if (x < 0) {
-                    ok = false;
+        for (int i = start; i >= 0; i--) {
+            if (i < matched) {
+                count[target.charAt(i) - 'a']++;
+            }
+
+            int bigger = -1;
+            for (int ch = target.charAt(i) - 'a' + 1; ch < 26; ch++) {
+                if (count[ch] > 0) {
+                    bigger = ch;
                     break;
                 }
             }
 
-            if (!ok) continue;
+            if (bigger != -1) {
+                count[bigger]--;
 
-            int next = -1;
-            for (int c = cur + 1; c < 26; c++) {
-                if (cnt[c] > 0) {
-                    next = c;
-                    break;
+                StringBuilder answer = new StringBuilder(target.substring(0, i));
+
+                answer.append((char) ('a' + bigger));
+
+                for (int ch = 0; ch < 26; ch++) {
+                    while (count[ch]-- > 0) {
+                        answer.append((char) ('a' + ch));
+                    }
                 }
+
+                return answer.toString();
             }
-
-            if (next == -1) continue;
-
-            cnt[next]--;
-
-            StringBuilder ans = new StringBuilder(target.substring(0, i));
-            ans.append((char) ('a' + next));
-
-            for (int c = 0; c < 26; c++) {
-                while (cnt[c]-- > 0) {
-                    ans.append((char) ('a' + c));
-                }
-            }
-
-            return ans.toString();
         }
 
         return "";
