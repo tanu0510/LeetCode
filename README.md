@@ -112,6 +112,7 @@ LeetCode/
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/tanu0510/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ LeetCode/
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanu0510/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +416,7 @@ LeetCode/
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Quicksort
 |  |
 | ------- |
