@@ -109,6 +109,7 @@ LeetCode/
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanu0510/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/tanu0510/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -245,6 +246,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanu0510/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -335,6 +337,7 @@ LeetCode/
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/tanu0510/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/tanu0510/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanu0510/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
