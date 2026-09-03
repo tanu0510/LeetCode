@@ -91,6 +91,7 @@ LeetCode/
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/tanu0510/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -357,6 +358,7 @@ LeetCode/
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/tanu0510/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
