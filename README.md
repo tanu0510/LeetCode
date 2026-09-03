@@ -176,6 +176,7 @@ LeetCode/
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanu0510/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanu0510/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanu0510/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanu0510/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanu0510/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
