@@ -122,6 +122,7 @@ LeetCode/
 | [0160-intersection-of-two-linked-lists](https://github.com/tanu0510/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanu0510/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/tanu0510/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -237,6 +238,7 @@ LeetCode/
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/tanu0510/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanu0510/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -280,6 +282,7 @@ LeetCode/
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -306,6 +309,7 @@ LeetCode/
 | [0239-sliding-window-maximum](https://github.com/tanu0510/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
