@@ -215,6 +215,7 @@ LeetCode/
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tanu0510/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -222,6 +223,7 @@ LeetCode/
 | ------- |
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/tanu0510/LeetCode/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/tanu0510/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -240,6 +242,7 @@ LeetCode/
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tanu0510/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanu0510/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## String
@@ -504,4 +507,8 @@ LeetCode/
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tanu0510/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
