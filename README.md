@@ -268,6 +268,7 @@ LeetCode/
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanu0510/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanu0510/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanu0510/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -311,6 +312,7 @@ LeetCode/
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanu0510/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanu0510/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -436,6 +438,7 @@ LeetCode/
 | [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanu0510/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
