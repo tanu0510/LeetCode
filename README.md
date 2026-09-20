@@ -92,6 +92,7 @@ LeetCode/
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanu0510/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanu0510/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanu0510/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -173,6 +174,7 @@ LeetCode/
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/tanu0510/LeetCode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/tanu0510/LeetCode/tree/master/0835-image-overlap) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanu0510/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -237,6 +239,7 @@ LeetCode/
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanu0510/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0938-range-sum-of-bst](https://github.com/tanu0510/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/tanu0510/LeetCode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanu0510/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanu0510/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
