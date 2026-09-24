@@ -221,6 +221,7 @@ LeetCode/
 | [3536-maximum-product-of-two-digits](https://github.com/tanu0510/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanu0510/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanu0510/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/tanu0510/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanu0510/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/tanu0510/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/tanu0510/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -408,6 +409,7 @@ LeetCode/
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/tanu0510/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Breadth-First Search
 |  |
 | ------- |
