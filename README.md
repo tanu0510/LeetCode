@@ -285,6 +285,7 @@ LeetCode/
 | [2351-first-letter-to-appear-twice](https://github.com/tanu0510/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanu0510/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2716-minimize-string-length](https://github.com/tanu0510/LeetCode/tree/master/2716-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanu0510/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanu0510/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -332,6 +333,7 @@ LeetCode/
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanu0510/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanu0510/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanu0510/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2716-minimize-string-length](https://github.com/tanu0510/LeetCode/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
