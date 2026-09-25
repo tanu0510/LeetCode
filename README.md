@@ -164,6 +164,7 @@ LeetCode/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -278,6 +279,7 @@ LeetCode/
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanu0510/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanu0510/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tanu0510/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -303,6 +305,7 @@ LeetCode/
 | [0368-largest-divisible-subset](https://github.com/tanu0510/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanu0510/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanu0510/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -328,6 +331,7 @@ LeetCode/
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanu0510/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -420,6 +424,7 @@ LeetCode/
 | [0101-symmetric-tree](https://github.com/tanu0510/LeetCode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/tanu0510/LeetCode/tree/master/0463-island-perimeter) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quickselect
 |  |
@@ -512,6 +517,7 @@ LeetCode/
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bitmask
 |  |
 | ------- |
