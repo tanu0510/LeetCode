@@ -107,6 +107,7 @@ LeetCode/
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -163,6 +164,7 @@ LeetCode/
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tanu0510/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanu0510/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/tanu0510/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
@@ -190,6 +192,7 @@ LeetCode/
 | [0463-island-perimeter](https://github.com/tanu0510/LeetCode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/tanu0510/LeetCode/tree/master/0835-image-overlap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanu0510/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -592,4 +595,5 @@ LeetCode/
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
