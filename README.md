@@ -110,6 +110,7 @@ LeetCode/
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -333,6 +334,7 @@ LeetCode/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanu0510/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanu0510/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/tanu0510/LeetCode/tree/master/3731-find-missing-elements) |
@@ -365,6 +367,7 @@ LeetCode/
 | [2094-finding-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanu0510/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/tanu0510/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2716-minimize-string-length](https://github.com/tanu0510/LeetCode/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
@@ -405,6 +408,7 @@ LeetCode/
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanu0510/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -444,6 +448,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tanu0510/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
