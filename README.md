@@ -174,6 +174,7 @@ LeetCode/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanu0510/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -285,6 +286,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/tanu0510/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanu0510/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tanu0510/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -607,6 +609,7 @@ LeetCode/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanu0510/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
