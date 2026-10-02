@@ -152,6 +152,7 @@ LeetCode/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tanu0510/LeetCode/tree/master/0091-decode-ways) |
@@ -287,6 +288,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/tanu0510/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanu0510/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/tanu0510/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -556,6 +558,7 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bitmask
@@ -610,6 +613,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanu0510/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
