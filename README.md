@@ -182,6 +182,7 @@ LeetCode/
 | [0032-longest-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanu0510/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -306,6 +307,7 @@ LeetCode/
 | [0657-robot-return-to-origin](https://github.com/tanu0510/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanu0510/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanu0510/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -507,6 +509,7 @@ LeetCode/
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/tanu0510/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanu0510/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -626,6 +629,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanu0510/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
