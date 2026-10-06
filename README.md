@@ -89,6 +89,7 @@ LeetCode/
 | [0806-number-of-lines-to-write-string](https://github.com/tanu0510/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/tanu0510/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/tanu0510/LeetCode/tree/master/0835-image-overlap) |
+| [0983-minimum-cost-for-tickets](https://github.com/tanu0510/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanu0510/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -167,6 +168,7 @@ LeetCode/
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/tanu0510/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanu0510/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanu0510/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
