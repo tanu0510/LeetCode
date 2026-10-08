@@ -166,6 +166,7 @@ LeetCode/
 | [0368-largest-divisible-subset](https://github.com/tanu0510/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/tanu0510/LeetCode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -185,6 +186,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -311,6 +313,7 @@ LeetCode/
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/tanu0510/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanu0510/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -517,6 +520,7 @@ LeetCode/
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/tanu0510/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/tanu0510/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanu0510/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tanu0510/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -638,6 +642,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tanu0510/LeetCode/tree/master/1021-remove-outermost-parentheses) |
