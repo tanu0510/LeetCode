@@ -112,6 +112,7 @@ LeetCode/
 | [2094-finding-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanu0510/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -291,6 +292,7 @@ LeetCode/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanu0510/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanu0510/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -362,6 +364,7 @@ LeetCode/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanu0510/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanu0510/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tanu0510/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanu0510/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -436,6 +439,7 @@ LeetCode/
 | [0347-top-k-frequent-elements](https://github.com/tanu0510/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanu0510/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Monotonic Queue
 |  |
@@ -533,6 +537,7 @@ LeetCode/
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/tanu0510/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanu0510/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
