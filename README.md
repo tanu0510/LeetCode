@@ -120,6 +120,7 @@ LeetCode/
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanu0510/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -412,6 +413,7 @@ LeetCode/
 | [2531-make-number-of-distinct-characters-equal](https://github.com/tanu0510/LeetCode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2716-minimize-string-length](https://github.com/tanu0510/LeetCode/tree/master/2716-minimize-string-length) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -529,6 +531,7 @@ LeetCode/
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanu0510/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/tanu0510/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanu0510/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanu0510/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -554,6 +557,7 @@ LeetCode/
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanu0510/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanu0510/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanu0510/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
