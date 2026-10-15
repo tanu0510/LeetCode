@@ -1,28 +1,15 @@
 class Solution {
-
-    int[] dp;
-
     public int climbStairs(int n) {
+        if(n < 2) return n;
+        int prev = 1;
+        int curr = 2;
 
-        dp = new int[n + 1];
-
-        return solution(n);
-    }
-
-    public int solution(int n) {
-
-        if (n == 1) {
-            return 1;
+        for(int i = 3; i <= n; i++) {
+            int temp = curr + prev;
+            prev = curr;
+            curr = temp;
         }
 
-        if (n == 2) {
-            return 2;
-        }
-
-        if (dp[n] != 0) {
-            return dp[n];
-        }
-
-        return dp[n] = solution(n - 1) + solution(n - 2);
+        return curr;
     }
 }
