@@ -121,6 +121,7 @@ LeetCode/
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanu0510/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanu0510/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -419,6 +420,7 @@ LeetCode/
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2716-minimize-string-length](https://github.com/tanu0510/LeetCode/tree/master/2716-minimize-string-length) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanu0510/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanu0510/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanu0510/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -672,6 +674,7 @@ LeetCode/
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanu0510/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/tanu0510/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -692,4 +695,8 @@ LeetCode/
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanu0510/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanu0510/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
