@@ -248,6 +248,7 @@ LeetCode/
 | ------- |
 | [0009-palindrome-number](https://github.com/tanu0510/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/tanu0510/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
