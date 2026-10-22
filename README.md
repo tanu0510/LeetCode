@@ -253,6 +253,7 @@ LeetCode/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanu0510/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/tanu0510/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/tanu0510/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
@@ -568,6 +569,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/tanu0510/LeetCode/tree/master/0029-divide-two-integers) |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanu0510/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
