@@ -270,6 +270,7 @@ LeetCode/
 | [0172-factorial-trailing-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/tanu0510/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/tanu0510/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/tanu0510/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/tanu0510/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/tanu0510/LeetCode/tree/master/0509-fibonacci-number) |
@@ -590,6 +591,7 @@ LeetCode/
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanu0510/LeetCode/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/tanu0510/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/tanu0510/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tanu0510/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tanu0510/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
