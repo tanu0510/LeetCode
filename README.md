@@ -116,6 +116,7 @@ LeetCode/
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/tanu0510/LeetCode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanu0510/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanu0510/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/tanu0510/LeetCode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/tanu0510/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
