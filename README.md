@@ -122,6 +122,7 @@ LeetCode/
 | [1732-find-the-highest-altitude](https://github.com/tanu0510/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/tanu0510/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanu0510/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -300,6 +301,7 @@ LeetCode/
 | [1563-stone-game-v](https://github.com/tanu0510/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanu0510/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tanu0510/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/tanu0510/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanu0510/LeetCode/tree/master/2029-stone-game-ix) |
