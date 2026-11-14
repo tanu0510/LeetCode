@@ -417,6 +417,7 @@ LeetCode/
 | [0678-valid-parenthesis-string](https://github.com/tanu0510/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanu0510/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0856-score-of-parentheses](https://github.com/tanu0510/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/tanu0510/LeetCode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanu0510/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/tanu0510/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
@@ -504,6 +505,7 @@ LeetCode/
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tanu0510/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanu0510/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tanu0510/LeetCode/tree/master/0567-permutation-in-string) |
+| [0859-buddy-strings](https://github.com/tanu0510/LeetCode/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/tanu0510/LeetCode/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/1331-rank-transform-of-an-array) |
