@@ -69,6 +69,7 @@ LeetCode/
 | [0004-median-of-two-sorted-arrays](https://github.com/tanu0510/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanu0510/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanu0510/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -265,6 +266,7 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tanu0510/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/tanu0510/LeetCode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/tanu0510/LeetCode/tree/master/0835-image-overlap) |
@@ -494,6 +496,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tanu0510/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tanu0510/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanu0510/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/tanu0510/LeetCode/tree/master/0229-majority-element-ii) |
