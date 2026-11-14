@@ -148,6 +148,7 @@ LeetCode/
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tanu0510/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanu0510/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanu0510/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tanu0510/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanu0510/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -643,6 +644,7 @@ LeetCode/
 | [1096-brace-expansion-ii](https://github.com/tanu0510/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/tanu0510/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/tanu0510/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanu0510/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanu0510/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanu0510/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
@@ -808,6 +810,7 @@ LeetCode/
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tanu0510/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanu0510/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanu0510/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
