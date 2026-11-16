@@ -442,6 +442,7 @@ LeetCode/
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tanu0510/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1927-sum-game](https://github.com/tanu0510/LeetCode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanu0510/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanu0510/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/tanu0510/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -631,6 +632,7 @@ LeetCode/
 | [0415-add-strings](https://github.com/tanu0510/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/tanu0510/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tanu0510/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/tanu0510/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
