@@ -344,6 +344,7 @@ LeetCode/
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanu0510/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/tanu0510/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanu0510/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/tanu0510/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tanu0510/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanu0510/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/tanu0510/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -659,6 +660,7 @@ LeetCode/
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/tanu0510/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanu0510/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/tanu0510/LeetCode/tree/master/3242-design-neighbor-sum-service) |
+| [3360-stone-removal-game](https://github.com/tanu0510/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanu0510/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/tanu0510/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/tanu0510/LeetCode/tree/master/3838-weighted-word-mapping) |
