@@ -67,6 +67,7 @@ LeetCode/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanu0510/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/tanu0510/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanu0510/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanu0510/LeetCode/tree/master/0053-maximum-subarray) |
@@ -187,6 +188,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanu0510/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanu0510/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/tanu0510/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanu0510/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -483,6 +485,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanu0510/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tanu0510/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tanu0510/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanu0510/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
